@@ -29,10 +29,11 @@ This project is an interactive Power BI dashboard that analyzes job market trend
 
 ## 📸 Dashboard Preview
 
+
+<img width="750" height="418" alt="image" src="https://github.com/user-attachments/assets/bfe8814a-cf69-4e8b-abf7-e8f13e2590f0" />
+
+
 <img width="752" height="426" alt="image" src="https://github.com/user-attachments/assets/914ff8fb-d02e-43a6-a843-982667ae0eb8" />
-
-
-<img width="750" height="422" alt="image" src="https://github.com/user-attachments/assets/05d893cb-742f-4d1a-9938-4100d8b43d69" />
 
 
 <img width="756" height="423" alt="image" src="https://github.com/user-attachments/assets/99854ea8-0f45-495b-9d10-029ac1d817a7" />
