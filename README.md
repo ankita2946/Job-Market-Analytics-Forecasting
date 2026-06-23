@@ -26,7 +26,6 @@ This project is an interactive Power BI dashboard that analyzes job market trend
 * In-Demand Skills Analysis
 * AI Impact Analysis
 * Hiring Trend Forecasting
-* Interactive Filters & Slicers
 
 ## 📸 Dashboard Preview
 
