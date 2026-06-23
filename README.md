@@ -42,7 +42,7 @@ This project is an interactive Power BI dashboard that analyzes job market trend
 <img width="755" height="425" alt="Salary_Analysis" src="https://github.com/user-attachments/assets/e70816c3-14b0-4278-b1f4-eb4be72afa05" />
 
 ## **AI Impact Analysis**
-<img width="755" height="423" alt="AI_Impact_Analysis" src="https://github.com/user-attachments/assets/e6b1a094-fb33-4330-be1d-ddd771f857db" />
+<img width="754" height="425" alt="image" src="https://github.com/user-attachments/assets/94eecd15-1ad6-47e1-84e1-6a56ca4294a4" />
 
 ## **Predictive Analysis**
 <img width="759" height="425" alt="Predictive_Analysis" src="https://github.com/user-attachments/assets/ca07bf53-015a-4497-be0f-0f485ba36cc6" />
