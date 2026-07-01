@@ -33,19 +33,19 @@ This project is an interactive Power BI dashboard that analyzes job market trend
 <img width="750" height="418" alt="image" src="https://github.com/user-attachments/assets/bfe8814a-cf69-4e8b-abf7-e8f13e2590f0" />
 
 ## **Job Market Overview**
-<img width="761" height="428" alt="Job_Market_Overview" src="https://github.com/user-attachments/assets/8207455c-fc13-4d32-86b0-5f46955bfd9c" />
+<img width="868" height="486" alt="image" src="https://github.com/user-attachments/assets/dcabd509-530c-4bb6-a799-cc6d92c25b54" />
 
 ## **Skills Demand Analysis**
-<img width="757" height="426" alt="Skills_Demand_Analysis" src="https://github.com/user-attachments/assets/d4a0341d-b2f3-4162-bf5d-9173909becbb" />
+<img width="868" height="487" alt="image" src="https://github.com/user-attachments/assets/38ebd15e-0cee-4b5b-9103-098988efb68e" />
 
 ## **Salary Analysis**
-<img width="755" height="425" alt="Salary_Analysis" src="https://github.com/user-attachments/assets/e70816c3-14b0-4278-b1f4-eb4be72afa05" />
+<img width="864" height="487" alt="image" src="https://github.com/user-attachments/assets/7c6281a8-20a4-42c9-ac2f-a73786b6ea93" />
 
 ## **AI Impact Analysis**
-<img width="754" height="425" alt="image" src="https://github.com/user-attachments/assets/94eecd15-1ad6-47e1-84e1-6a56ca4294a4" />
+<img width="868" height="486" alt="image" src="https://github.com/user-attachments/assets/a6f3feef-bbe7-4abc-be69-2bbb6fe66a64" />
 
 ## **Predictive Analysis**
-<img width="759" height="425" alt="Predictive_Analysis" src="https://github.com/user-attachments/assets/ca07bf53-015a-4497-be0f-0f485ba36cc6" />
+<img width="869" height="484" alt="image" src="https://github.com/user-attachments/assets/9934a73f-7c19-40da-8f42-142a12690c26" />
 
 ## 👩‍💻 Author
 
